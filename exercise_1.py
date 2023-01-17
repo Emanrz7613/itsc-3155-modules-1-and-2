@@ -13,4 +13,3 @@ for i in range(len(list)):
             lower += list[i]
 
 print(lower + upper)
-
